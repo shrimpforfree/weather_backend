@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "location":"Seoul, South Korea",
+    "temperature":7.0,
+    "description":"Partly cloudy",
+    "date_requested":1743874413942,
+    "start_date":"2024-04-10",
+    "end_date":"2024-04-15"
+  },
+  {
+    "id":2,
+    "location":"Tainan, Taiwan",
+    "temperature":20.1,
+    "description":"Partly cloudy",
+    "date_requested":1743875294874,
+    "start_date":"2024-04-10",
+    "end_date":"2024-04-11"
+  }
+]
